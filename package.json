@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "mjml": "^4.15.2"
   }
 }
