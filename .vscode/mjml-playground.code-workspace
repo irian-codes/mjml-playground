@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "prettier.requireConfig": false,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    },
+    "editor.formatOnSave": true,
+    "[mjml]": {
+      "editor.defaultFormatter": "mjmlio.vscode-mjml"
+    }
+  }
+}

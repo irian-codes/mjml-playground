@@ -1,0 +1,16 @@
+{
+  "name": "mjml-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild": "mkdir -p dist",
+    "build": "mjml index.mjml -o ./dist/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mjml": "^4.15.2"
+  }
+}
